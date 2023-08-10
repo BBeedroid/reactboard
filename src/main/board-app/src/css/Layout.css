@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFD4DF;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFD4DF;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.main-div li {
+    font-size: 1.125rem;
+}
